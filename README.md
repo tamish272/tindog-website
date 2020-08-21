@@ -1,2 +1,1 @@
-TinDog Starting Files
-# tindog_website
+## tindog is a website I developed for learning and using concepts of Bootstrap.
